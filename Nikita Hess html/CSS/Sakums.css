@@ -1,0 +1,215 @@
+body {
+	background: #5d802c;
+	color: #878785;
+	font-family: Arial;
+	font-size: 14px;
+	margin: 0;
+	min-width: 700px;
+	padding: 0;
+}
+a {
+	outline: none;
+}
+img {
+	border: 5;
+}
+#up {
+	background: #ffffff;
+	width: 100%;
+}
+#up div {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 960px;
+}
+#up div img {
+	float: left;
+	margin-top: 15px;
+}
+#up div ul {
+	float: right;
+	list-style: none;
+	margin: 40px 0 0;
+	overflow: hidden;
+	padding: 0;
+}
+#up div ul li {
+	float: left;
+	padding: 0 5px;
+}
+#up div ul li.current a {
+	background: url(Images/button.gif) no-repeat 0 0;
+}
+#up div ul li a {
+	color: #495531;
+    display: block;
+    height: 30px;
+    line-height: 47px;
+    text-align: center;
+    text-decoration: none;
+    width: 90px;
+}
+#content {
+	background: #7cc116 url(images/bg-content.gif) repeat-x top left;
+	color: #67695e;
+}
+
+#content div {
+	min-height: 1170px;
+	margin: 0 auto;
+    overflow: hidden;
+    width: 960px;
+}
+
+#content div div {
+	background: none;
+	float: right;
+    margin: 500px 0 0;
+    min-height: 0;
+    padding-right: 10px;
+    width: 460px;
+}
+
+#content div div h1, #content div div h2 {
+	color: #382d00;
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0;
+}
+#content div div h2 {
+	padding-top: 25px;
+}
+
+#content div div p {
+	line-height: 23px;
+    padding-top: 5px;
+    text-align: justify;
+}
+#wow div ul li p a {
+	color: #fdfd00;
+}
+div.content {
+	background: #ffffff url(images/bg-content2.gif) repeat-x bottom center;
+	padding-bottom: 50px;
+}
+div.content div {
+	margin: 0 auto;
+	width: 960px;
+}
+
+div.content div div {
+	padding-top: 10px;
+	overflow: hidden;
+	width: auto;
+}
+div.content div div div#kik {
+	float: left;
+	padding-top: 0;
+	width: 320px;
+}
+
+div.content div div div#kik h3 {
+	color: #9BAF58;
+    font-size: 25px;
+    font-weight: normal;
+    margin: 0;
+    text-indent: 20px;
+}
+
+div.content div div div#kik ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+div.content div div div#kik ul li {
+	height: 205px;
+	padding: 15px 55px 0 35px;
+}
+div.content div div div#kik ul li#vision {
+	background: url(../images/bg-sidebar-item1.jpg) no-repeat;
+}
+}
+div.content div div div#kik ul li span {
+	color: #FFFFFF;
+    display: block;
+    font-size: 25px;
+    font-style: italic;
+}
+
+div.content div div div#kik ul li p {
+	line-height: 23px;
+    margin: 0;
+    padding-top: 0;
+}
+div.content div div div#yyy, div.content div div div #contact {
+	float: right;
+	padding-right: 10px;
+	padding-top: 0;
+	width: 620px;
+}
+
+div.content div div div#yyy span {
+	color: #fc9500;
+	display: block;
+	font-size: 20px;
+	padding-top: 50px;
+}
+
+div.content div div div#yyy span.first {
+	padding-top: 0;
+}
+
+div.content div div div#yyy p {
+	margin: 0;
+	line-height: 23px;
+	padding-top: 5px;
+	text-align: justify;
+}
+
+div.content div div div#yyy ul {
+	list-style: disc inside;
+	margin: 0;
+	padding: 0 0 0 25px;
+}
+
+div.content div div div#yyy ul li {
+	padding: 5px 0;
+}
+#wow {
+	border-top: 1px solid #a4dd50;
+	padding-top: 15px;
+}
+
+#wow div {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 1000px;
+}
+
+#wow div div {
+	float: left;
+	margin-left: 0px;
+	width: 175px;
+}
+
+#wow div div h1 {
+	color: orange;
+    display: block;
+    font-size: 18px;
+	padding-bottom: 30px;
+}
+
+#wow div div a {
+	color: #314810;
+	display: block;
+	margin-bottom: 15px;
+	text-decoration: none;
+	text-indent: 70px;
+}
+
+
+
+
+
+

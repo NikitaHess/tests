@@ -1,0 +1,17 @@
+h1{
+	color: red;
+}
+body {
+	background-color: #ebffe0;
+}
+.fonti {
+	font-family: Times New Roman;
+}
+.center { 
+  margin-left: 150px;
+  margin-right: 150px;
+}
+ol {
+	font-family: Times New Roman;
+	font-size: 20px;
+}
